@@ -1,5 +1,5 @@
 # 🤓 Introduction 
-I am Brazilian and as a professional software engineer, I have been working with software development for over 12 years and more recently focused on activities related to Cloud (specifically with [AWS](https://aws.amazon.com/)) and DevOps. I have been seeking to specialize myself in the best practices of construction and architecture of microservices and containers targeting Java applications backed by the Spring Framework and with a special attention on new technologies and frameworks optimized for the Cloud, like [Quarkus](https://quarkus.io/) e [GraalVM](https://www.graalvm.org/).
+I am Brazilian and as a professional software engineer, I have been working with software development for over 12 years and more recently focused on activities related to cloud development (specifically to [AWS](https://aws.amazon.com/)) and DevOps. I have been seeking to specialize myself in the best practices of construction and architecture of microservices and containers targeting Java applications backed by the Spring Framework and with a special attention on new technologies and frameworks optimized for the Cloud, like [Quarkus](https://quarkus.io/) e [GraalVM](https://www.graalvm.org/).
 
 
 # 🎓 Certifications
@@ -18,8 +18,8 @@ I am Brazilian and as a professional software engineer, I have been working with
 ## Postman
 ![postman-student-expert.png](./badges/postman/1.png)
 ![Postman APi Adoption](./badges/postman/2.png)
-## Oracle
-![1.png](./badges/oracle/1.png)
+## Java
+![1.png](./badges/java/1.png)
 ## IBM
 ![1.png](./badges/ibm/1.png)
 
@@ -27,4 +27,5 @@ I am Brazilian and as a professional software engineer, I have been working with
 # 📫 How to Reach Me
 - [LinkedIn](https://www.linkedin.com/in/davidarchanjo/)
 - [Email](mailto:david.archanjoybr@gmail.com)
-- [Phone](tel:5511976375264)
+- [WhatsApp](https://api.whatsapp.com/send?phone=5511976375264)
+- [Telegram](https://t.me/davidarchanjo)
