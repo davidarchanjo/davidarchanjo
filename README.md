@@ -1,5 +1,5 @@
 # 🤓 Introduction 
-I am Brazilian, proudly addicted to coffee ☕, who doesn't huh!?, and father of two beautiful little girls 👶👧. As a professional software engineer, I have been working with SDLC for over 12 years and have recently being involved in activities related to cloud-driven development and DevOps routines, always focused on specializing myself in the best practices and most productive ways to build and architect applications — mostly in Java combined with the Spring Framework ecosystem. I have also been following with great enthusiasm the arising and evolution of new technologies optimized for the cloud that use new generations of the JVM, such as [Quarkus](https://quarkus.io/) and [GraalVM](https://www.graalvm.org/).
+I am Brazilian, proudly addicted to coffee ☕, who doesn't huh!?, and father of two beautiful little girls 👶👧. As a professional software developer I'm coding for fun and money for 11+ years by now, with front-end and back-end background. Despite have experience with Java, Javascript, Typescript, Python, Go etc... my really loved and preferred language is the one who pays my bills 🤭. As a lifelong leaner I'm always looking to strengthen and expand my knowledge, and here are some of my certifications:
 
 
 # 🎓 Certifications
@@ -28,7 +28,7 @@ I am Brazilian, proudly addicted to coffee ☕, who doesn't huh!?, and father of
 ![1.png](./badges/ibm/1.png)
 
 
-# 📫 How to Reach Me
+If you wanna reach me or check more informations about me and my work, follows:
 - [LinkedIn](https://www.linkedin.com/in/davidarchanjo/)
 - [Email](mailto:david.archanjoybr@gmail.com)
 - [WhatsApp](https://api.whatsapp.com/send?phone=5511976375264)
