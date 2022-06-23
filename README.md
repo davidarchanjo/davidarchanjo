@@ -3,31 +3,14 @@ I am Brazilian, proudly addicted to coffee ☕, who doesn't huh!?, and father of
 
 
 # 🎓 Certifications
-## AWS
-![1.png](./badges/aws/1.png)
-![2.png](./badges/aws/2.png)
-![3.png](./badges/aws/3.png)
-![4.png](./badges/aws/4.png)
-![5.png](./badges/aws/5.png)
-![6.png](./badges/aws/6.png)
-
-## CertiProf
-![1.png](./badges/certiprof/1.png)
-![2.png](./badges/certiprof/2.png)
-![3.png](./badges/certiprof/3.png)
-![4.png](./badges/certiprof/4.png)
-
-## Postman
-![postman-student-expert.png](./badges/postman/1.png)
-![Postman APi Adoption](./badges/postman/2.png)
-
-## Java
-![1.png](./badges/java/1.png)
-
-## IBM
-![1.png](./badges/ibm/1.png)
+|  | | | | | |
+| :-: | :-: | :-: | :-: | :-: | :-: |
+|![1.png](./badges/java/1.png)|![1.png](./badges/vmware/1.png)|![1.png](./badges/certiprof/1.png)|![2.png](./badges/certiprof/2.png)|![3.png](./badges/certiprof/3.png)|![4.png](./badges/certiprof/4.png)|
+|![1.png](./badges/aws/1.png)|![2.png](./badges/aws/2.png)|![3.png](./badges/aws/3.png)|![4.png](./badges/aws/4.png)|![5.png](./badges/aws/5.png)|![6.png](./badges/aws/6.png)|
+|![postman-student-expert.png](./badges/postman/1.png)|![Postman APi Adoption](./badges/postman/2.png)|![1.png](./badges/ibm/1.png)|
 
 
+# Contact
 If you wanna reach me or check more informations about me and my work, follows:
 - [LinkedIn](https://www.linkedin.com/in/davidarchanjo/)
 - [Email](mailto:david.archanjoybr@gmail.com)
