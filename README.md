@@ -1,5 +1,5 @@
 # 🤓 Introduction 
-I am Brazilian, proudly addicted to coffee ☕, who doesn't huh!?, and father of two beautiful little girls 👶👧. As a professional software developer I'm coding for fun and money for 11+ years by now, with front-end and back-end background. Despite have experience with Java, Javascript, Typescript, Python, Go etc... my really loved and preferred language is the one who pays my bills 🤭. As a lifelong leaner I'm always looking to strengthen and expand my knowledge, and here are some of my certifications:
+I am Brazilian, proudly addicted to coffee ☕, who doesn't huh!?, and father of two beautiful little girls 👶👧. As professional software developer I'm having with coding for 11+ years by now, with front-end and back-end background. Despite have experience with Java, Javascript, Typescript, Python, Go etc... my really loved and preferred language is the one who pays my bills 🤭. As a lifelong leaner I'm always looking to strengthen and expand my knowledge, and here are some of my certifications:
 
 <br>
 
