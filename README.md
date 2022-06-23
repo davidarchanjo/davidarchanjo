@@ -13,7 +13,7 @@ I am Brazilian, proudly addicted to coffee ☕, who doesn't huh!?, and father of
 <br>
 
 # 👨‍💻 Contacts
-If you wanna reach me or check more informations about me and my work, follows:
+If you want to reach me or check more informations about me, my work etc, follows:
 - [LinkedIn](https://www.linkedin.com/in/davidarchanjo/)
 - [Email](mailto:david.archanjoybr@gmail.com)
 - [WhatsApp](https://api.whatsapp.com/send?phone=5511976375264)
