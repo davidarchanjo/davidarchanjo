@@ -3,6 +3,8 @@ I am Brazilian, proudly addicted to coffee ☕, who doesn't huh!?, and father of
 
 <br>
 
+![](https://komarev.com/ghpvc/?username=davidarchanjo&color=blue)
+
 # 🎓 Certifications
 | | | | | |
 | :-: | :-: | :-: | :-: | :-: |
