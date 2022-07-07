@@ -5,8 +5,6 @@ I am Brazilian, proudly addicted to coffee ☕, who doesn't huh!?, and father of
 
 ![](https://komarev.com/ghpvc/?username=davidarchanjo&color=blue)
 
-<br>
-
 # 🎓 Certifications ([Credly](https://www.credly.com/users/david-archanjo))
 | | | | | |
 | :-: | :-: | :-: | :-: | :-: |
