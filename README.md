@@ -1,5 +1,5 @@
 # 🤓 Introduction 
-I am Brazilian, proudly addicted to coffee ☕, who doesn't huh!?, and father of two beautiful little girls 👶👧. As professional software developer I'm having fun, sometimes headaches... of course, with coding for over 11 years by now, working with front-end and back-end development. Despite have experience with Java, Javascript, Typescript, Python, Go etc... my really loved and preferred language is the one(s) who pays my bills 🤭. As a lifelong learner I'm always eager to increase as well as diversify my knowledge.
+I am a Software Developer Specialist with over 11 years of professional experience, mostly in back-end development. My expertise comes from running Java projects based on the Spring Boot framework and JavaScript and TypeScript projects based on Node.js. I have extensive hands-on building cloud-native applications (mainly on AWS), SQL and NoSQL database management, containerization with Docker and Kubernetes, messaging and stream processing with Kafka, as well as proficiency in conducting DevOps tasks such as CI/CD pipeline management and configuration, integration with performance and monitoring tools, among other related activities. Golang is recently getting my attention and I'm impressed on discovering its capabilities.
 
 <br>
 
