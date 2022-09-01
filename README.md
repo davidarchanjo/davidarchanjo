@@ -17,6 +17,7 @@ To check all my achivement, go to my [Credly](https://www.credly.com/users/david
 
 # 👨‍💻 Contacts
 If you want to reach me or check more informations about me, my work etc, follows:
+- [DevReady](https://devready.io/developers/david-archanjo-p/)
 - [LinkedIn](https://www.linkedin.com/in/davidarchanjo/)
 - [Email](mailto:david.archanjoybr@gmail.com)
 - [WhatsApp](https://api.whatsapp.com/send?phone=5511976375264)
