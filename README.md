@@ -1,5 +1,5 @@
 # 🤓 Introduction 
-I'm a Software Developer Specialist with 11+ years of professional experience, mostly in back-end development. My expertise comes primarily from working with Java projects based on the Spring framework, and JavaScript and TypeScript projects based on Node.js. I have hands-on building cloud-native applications (mainly on AWS), SQL and NoSQL database management, managing of containerized workloads and services with Docker and Kubernetes, messaging and stream processing with Kafka as well as proficiency in conducting DevOps tasks such as CI/CD pipeline management and configuration, integration with monitoring and performance tools, among other related activities. More recently I'm getting used to Golang on discovering its capabilities.
+I am a professional with 12+ years of activity in the software development industry. My experience comes mostly from working with Java projects using the Spring Boot framework for backend development, and with Node.js web projects using the Angular framework for frontend development and JavaScript/TypeScript for the backend. I also have extensive hands-on experience in tasks like modeling, manipulation and integration of SQL and NoSQL databases; containerization of applications; serverless application development on AWS; and DevOps practices such as CI/CD pipeline, IaC, observability, monitoring.
 
 <br>
 
