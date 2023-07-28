@@ -1,6 +1,5 @@
 # 🤓 Introduction 
-I am a professional with 12+ years of activity in the software development industry. My experience comes mostly from working with Java projects using the Spring Boot framework for backend development, and with Node.js web projects using the Angular framework for frontend development and JavaScript/TypeScript for the backend. I also have extensive hands-on experience in tasks like modeling, manipulation and integration of SQL and NoSQL databases; containerization of applications; serverless application development on AWS; and DevOps practices such as CI/CD pipeline, IaC, observability, monitoring.
-
+I am a full-stack software engineer with over 12 years of professional activity. My experience comes mostly from working with Java projects using the Spring framework for backend development, and from Node.js web projects using JavaScript and TypeScript for frontend development with the Angular framework as well as for backend development with the Express.js and NestJS frameworks. I also have extensive hands-on experience in tasks like modeling, manipulation and integration of SQL and NoSQL databases; integration with messaging system like Kafka and RabbitMQ; containerization and application workload with Docker and Kubernetes; serverless application development on AWS; and DevOps practices like CI/CD pipeline, observability and monitoring.
 <br>
 
 ![](https://komarev.com/ghpvc/?username=davidarchanjo&color=blue)
