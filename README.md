@@ -1,7 +1,22 @@
 # 🤓 Introduction 
-I am a full-stack software engineer with more than 12 years of professional activity. My experience comes from working with Java projects using the Spring and Spring Boot framework for backend development, as well as from Node.js web projects using JavaScript and TypeScript for frontend development with the Angular and React.js frameworks, and for backend development with the Express.js and NestJS frameworks, among others.
-My technical experience also spans across other areas including modeling, manipulation and integration of SQL databases such as Oracle, PostgreSQL and MySQL, and of NoSQL databases such as DynamoDB and MongoDB; integration with messaging systems like Kafka and RabbitMQ; containerization and application orchestration with Docker and Kubernetes; development of serverless applications on AWS; and DevOps practices such as creating CI/CD pipelines, integration with APM tools for observability and service monitoring purposes.
-<br>
+Senior Full-Stack Software Engineer with extensive experience designing and building scalable cloud-based applications across financial services, healthcare, and enterprise platforms.
+</br>
+My background combines strong backend engineering with modern frontend development and cloud architecture. I specialize in Java and Spring-based distributed systems, microservices architectures, and high-availability APIs running in containerized environments and cloud platforms such as AWS.
+</br>
+I also work extensively with Python and modern JavaScript frameworks (Angular and React) to deliver end-to-end solutions—from backend services and infrastructure to user-facing applications.
+</br>
+I have been exploring applied AI development, building practical systems around open-source LLMs and inference frameworks. This includes designing local and cloud inference stacks (vLLM, Ollama), RAG pipelines, and AI development tooling integrated with production applications.
+</br>
+Core areas of expertise include:
+- Backend engineering (Java, Spring Boot, REST APIs, microservices)
+- Full-stack development (Angular, React, modern JavaScript/TypeScript)
+- Cloud and DevOps (Docker, Kubernetes, AWS, containerization, CI/CD pipelines)
+- Distributed systems and scalable backend architecture
+- Python development and AI integration workflows
+- LLM inference infrastructure, RAG pipelines, and AI developer tooling
+
+Open to international opportunities and relocation. Willing to relocate and complete visa processes where required.
+</br></br>
 
 ![](https://komarev.com/ghpvc/?username=davidarchanjo&color=blue)
 
